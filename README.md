@@ -1,4 +1,4 @@
-![admin_6](https://github.com/user-attachments/assets/a5be5986-20e2-4344-a8e0-4157d6a0fae2)
+ 
 # HOTEL BOOKING APP
 Developed a hotel booking application with a user-friendly interface for room type selection and management using React, Spring Boot, JWT Authentication. Integrated JWT-based authentication and role-based access control using Spring Security. Implemented a custom backend with Spring Boot, providing secure endpoints for booking operations and user management, tested via Postman. Enabled efficient data handling with a custom user details service and dynamic room management features.
 
